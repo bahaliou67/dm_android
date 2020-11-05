@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cine Enigma</string>
+    <string name="login_title">Please login</string>
+    <string name="raiting_form_title">Fill the field to raite</string>
+    <string name="film_title">Film title</string>
+    <string name="date_title">Date</string>
+    <string name="scenario_title">Scenario</string>
+    <string name="realisation_title">Realisation</string>
+    <string name="music_title">Music</string>
+    <string name="commentaire_title">Commentaire</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="login_error">Error username or password</string>
+    <string name="raiting_error">Error Form. Please make sure that all fields are ok!</string>
+</resources>
